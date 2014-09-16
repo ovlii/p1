@@ -16,7 +16,7 @@ demonstrate setting up the system. The components involved are:
 7. pushing repository to github
 
 ## Demo
-
+None required for P1.
 
 ## Details for teaching team
 No login required.
