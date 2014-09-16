@@ -14,6 +14,7 @@
       <a href="http://piazza.dwa15.com">Pizaa Home</a><br/>
       <a href="https://harvard.instructure.com">Quizzes</a><br/>
       <a href="https://github.com/susanBuck/dwa15-archive">Course Archives</a></br/>
+      <a href="https://github.com/susanBuck/notes/tree/master/07_Version_Control">VC Notes</a>
    </p>
 
    <h4>PHP</h4>
