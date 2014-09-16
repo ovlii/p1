@@ -21,9 +21,7 @@ None required for P1.
 ## Details for teaching team
 No login required.
 
-I have added some of the course links so i can access them from this website easily.
-
 
 ## Outside code
-I have used the web templates from <http://www.html5webtemplates.co.uk>.
+I have used PureCSS and made some modifications to the layout and CSS.
 
