@@ -1,4 +1,4 @@
-# Project 1 - ystem Setup / Portfolio
+# Project 1 - System Setup / Portfolio
 
 ## Live URL
 <http://p1.ovlii.me>
