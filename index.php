@@ -54,12 +54,12 @@
 
             <h2 class="content-subhead">Why are you taking this course?</h2>
             <p>
-                I am working on developing a Web Application. I have explored many technologies and finally decided to use PHP as the preferred language. I have applied for ALM in Information Technology degree program after completing 4 course with a CGPA of 3.83. I am taking this course to satisfy Elective and also to get my hands on the scripting language so it can help with my web application.
+                I am working on developing a Web Application. I have explored many technologies and finally decided to use PHP as the preferred language. I have also applied for ALM in Information Technology degree program after completing 4 course with a CGPA of 3.83. I am taking this course to satisfy Elective and also to get my hands on the scripting language so it can help with my web application.
             </p>
 
             <h2 class="content-subhead">What previous experience do you have with programming?</h2>
             <p>
-                My programming experience is very little. I have learned COBOL, FoxBase, Pascal, Fortran and C during my college days but have not used in since then. I have take few classes at Harvard Extension in Java and Web Programming.            </p>
+                My programming experience is very little. I have learned COBOL, FoxBase, Pascal, Fortran and C during my college days but have not used since then. I haven take few programming classes at Harvard Extension in Java and Web Programming.            </p>
 
 
             <h2 class="content-subhead">Are you working on a Mac, PC, or some other platform?</h2>
@@ -69,8 +69,7 @@
  
             <h2 class="content-subhead">Anything else we should know?</h2>
             <p>
-                I am looking forward to learning Dynamic Web Applications and very excited. In addition to the topics covered, I would like to see a lecture on
-                scaling websites. 
+                I am looking forward to learning Dynamic Web Applications and very excited. In addition to the topics covered, I would also like to see a lecture on scaling websites. A section on famous PHP frameworks ( pro's and con's ) would be helpful. 
             </p>
          </div>
     </div>
