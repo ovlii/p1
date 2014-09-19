@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="A layout example with a side menu that hides on mobile, just like the Pure website.">
 
-    <title>Side Menu &ndash; </title>
+    <title>Project 1 for CSCIE-15 by Venkat Annangi </title>
 
 <link rel="stylesheet" href="http://yui.yahooapis.com/pure//pure.css">
     <!--[if lte IE 8]>
